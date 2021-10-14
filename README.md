@@ -5,7 +5,7 @@
 <br>
 <li> Using the XAMPP Control Panel Start Apache and MySQL </li>
 <br>
-<li> Using the XAMPP Control panel click on Admin then using the phpMyAdmin create a new database named: toucantech</li>
+<li> Using the XAMPP Control panel click on MySQL Admin then using the phpMyAdmin UI create a new database named: toucantech</li>
 <br>
 <li> Download/Clone the this Github repo </li>
 <br>
