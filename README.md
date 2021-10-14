@@ -1,7 +1,7 @@
 <ol>
  <li> Make sure composer is installed on your machine (<a href="https://getcomposer.org/download/">Download here</a>)</li>
 <br>
-<li> For MySQL database download and install XAMPP (<a hre="https://www.apachefriends.org/index.html">Download here</a>)</li>
+<li> For MySQL database download and install XAMPP (<a href="https://www.apachefriends.org/index.html">Download here</a>)</li>
 <br>
 <li> Using the XAMPP Control Panel Start Apache and MySQL </li>
 <br>
